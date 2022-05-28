@@ -18,11 +18,18 @@ This roject is based on an online website for a conference, more details below u
 * HTML
 * JavaScript
 
+## Prerequisites
+
+* code editor
+* Internet connection
+* web browser
+* Github account
+
 # Authors
 
 ## Natnael Amare
-* Github:https://github.com/nati2323/Concert/tree/First_Capstone
-* LinkedIn:https://www.linkedin.com/in/natnael-amare-b5844510a/
+* Github:    https://github.com/nati2323/Concert/tree/First_Capstone
+* LinkedIn:  https://www.linkedin.com/in/natnael-amare-b5844510a/
 
 ## Credits
 The original design can be seen at ('https://www.behance.net/gallery/29845175/CC-Global-Summit-2015')
