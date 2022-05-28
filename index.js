@@ -1,6 +1,5 @@
-function appear() {
-  var readMoreButton = document.getElementById('read-more-button');
-  var additionalSingers = document.querySelectorAll('.additional-singers-article');
+  let readMoreButton = document.getElementById('read-more-button');
+  let additionalSingers = document.querySelectorAll('.additional-singers-article');
  
   for (let i = 1; i < additionalSingers.length; i++) {
     if (additionalSingers[i].style.display === 'flex') {
@@ -12,15 +11,3 @@ function appear() {
       readMoreButton.innerHTML = '<< Read Less';
     }
   }
-}
-
-function mobileNav() {
-  var mobilNavUl = document.querySelector('.mobile-nav-ul');
-  if (mobilNavUl.style.display === 'block') {
-    console.log('1');
-    mobilNavUl.style.display = 'none';
-  }else {
-    console.log('2');
-    mobilNavUl.style.display = 'block';
-  }
-}
