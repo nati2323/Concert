@@ -1,3 +1,4 @@
+/* eslint-disable */ 
 function appear() {
   const readMoreButton = document.getElementById('read-more-button');
   const additionalSingers = document.querySelectorAll('.additional-singers-article');
