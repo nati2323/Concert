@@ -1,6 +1,6 @@
 function appear() {
-  let readMoreButton = document.getElementById('read-more-button');
-  let additionalSingers = document.querySelectorAll('.additional-singers-article');
+  const readMoreButton = document.getElementById('read-more-button');
+  const additionalSingers = document.querySelectorAll('.additional-singers-article');
 
   // var arrowForward = document.getElementById('arrowForward');
   // var arrowBackward = document.getElementById('arrowBackward').innerHTML('22');
@@ -17,7 +17,7 @@ function appear() {
 }
 
 function mobileNav() {
-  var mobilNavUl = document.querySelector('.mobile-nav-ul');
+  const mobilNavUl = document.querySelector('.mobile-nav-ul');
   if (mobilNavUl.style.display === 'block') {
     mobilNavUl.style.display = 'none';
   } else {
