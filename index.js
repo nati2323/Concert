@@ -1,4 +1,5 @@
-  let readMoreButton = document.getElementById('read-more-button');
+function appear() {  
+let readMoreButton = document.getElementById('read-more-button');
   let additionalSingers = document.querySelectorAll('.additional-singers-article');
  
   for (let i = 1; i < additionalSingers.length; i++) {
@@ -11,3 +12,4 @@
       readMoreButton.innerHTML = '<< Read Less';
     }
   }
+}
