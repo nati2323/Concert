@@ -2,9 +2,16 @@
 Concert website is a site for a conceptual concert event, it is a solo project accomplished to satisfy Microverse capstone requirement. I would like through this work to demonstrate mastery in HTML, CSS in addition to skills in other important aspects like good UI design.. 
 This roject is based on an online website for a conference, more details below under Credits paragraph
 
-# Screensho
+# Screenshot
+<img src='./assets/screenshot.jpg'>
+<img src='./assets/mobile-screenshot.jpg'>
+
 # Live Demo
+
 [Live Demo Link]https://nati2323.github.io/Concert/
+
+# Video Presentation
+[Presentation]
 
 # Built With
 * CSS
